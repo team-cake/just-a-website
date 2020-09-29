@@ -19,6 +19,7 @@ body {
 	font-size: 16px;
 	line-height: 1.7;
 	color: #777;
+	padding: 30px;
 }
 
 .header {
@@ -27,4 +28,5 @@ body {
 		url(../img/hero.jpg);
 	background-size: cover;
 	background-position: top;
+	clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 }
