@@ -4,6 +4,7 @@ $color-primary-dark: #28b485;
 
 $color-grey-dark: #777;
 $color-white: #fff;
+$color-black: #000;
 
 *,
 *::after,
@@ -38,26 +39,27 @@ body {
 		url(../img/hero.jpg);
 	background-size: cover;
 	background-position: top;
-	clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 	position: relative;
-}
 
-.header__logo-box {
-	position: absolute;
-	top: 4rem;
-	left: 4rem;
-}
+	clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 
-.header__logo {
-	height: 3.5rem;
-}
+	&__logo-box {
+		position: absolute;
+		top: 4rem;
+		left: 4rem;
+	}
 
-.header__text-box {
-	position: absolute;
-	top: 40%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	text-align: center;
+	&__logo {
+		height: 3.5rem;
+	}
+
+	&__text-box {
+		position: absolute;
+		top: 40%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+	}
 }
 
 .heading-primary {
@@ -154,12 +156,12 @@ body {
 
 .btn:hover {
 	transform: translateY(-0.3rem);
-	box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
 }
 
 .btn:active {
 	transform: translateY(-1px);
-	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+	box-shadow: 0 0.5rem 1rem rgba($color-black, 0.2);
 }
 
 .btn--white {
