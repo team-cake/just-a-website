@@ -271,7 +271,7 @@ body {
   margin-top: -20vh; }
 
 .section-features {
-  margin-top: -15vh;
+  margin-top: -12rem;
   padding: 20rem 0;
   background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(/public/img/nat-4.jpg);
   background-size: cover;
