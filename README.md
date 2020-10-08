@@ -8,7 +8,6 @@ A simple website to show off some css skills!
 
 - [Statement of Purpose](#statement-of-purpose)
 - [Images](#images)
-- [Features](#features)
 - [Technologies](#technologies)
 - [Project Status](#project-status)
 - [Setup](#setup)
@@ -25,13 +24,9 @@ Well, it's super simple. Just needed a mock up website to practice my css skills
 
 ## Images  
 
-Coming soon!
-
----
-
-## Features
-
-Will explain soon!  
+![Header](https://github.com/team-cake/just-a-website/blob/development/gif/Header.gif)  
+![About](https://github.com/team-cake/just-a-website/blob/development/gif/About.gif)  
+![Features](https://github.com/team-cake/just-a-website/blob/development/gif/Features.gif)  
 
 ---
 
