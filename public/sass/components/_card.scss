@@ -1,15 +1,15 @@
 .card {
-	position: relative;
 	perspective: 150rem;
 	-moz-perspective: 150rem;
+	position: relative;
+	height: 50rem;
 
 	&__side {
-		background-color: orangered;
 		color: #fff;
 		font-size: 2rem;
-		height: 50rem;
-		transition: all 0.8s;
 
+		height: 50rem;
+		transition: all 0.8s ease;
 		position: absolute;
 		top: 0;
 		left: 0;
@@ -17,12 +17,19 @@
 		backface-visibility: hidden;
 
 		&--front {
-			background-color: orangered;
+			background-color: $color-white;
 		}
 
 		&--back {
-			background-color: green;
 			transform: rotateY(180deg);
+
+			&-1 {
+				background-image: linear-gradient(
+					to right bottom,
+					$color-secondary-light,
+					$color-secondary-dark
+				);
+			}
 		}
 	}
 
