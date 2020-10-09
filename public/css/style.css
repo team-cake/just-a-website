@@ -145,7 +145,7 @@ body {
   background-color: #55c57a;
   color: #fff; }
   .btn--green::after {
-    background-color: #fff; }
+    background-color: #55c57a; }
 
 .btn::after {
   content: '';
