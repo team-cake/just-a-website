@@ -330,6 +330,7 @@ body {
   background-color: #fff;
   border-radius: 3px;
   padding: 6rem;
+  padding-left: 9rem;
   font-size: 1.6rem; }
   .story__shape {
     width: 15rem;
@@ -339,7 +340,8 @@ body {
     -webkit-shape-outside: circle(50% at 50% 50%);
     shape-outside: circle(50% at 50% 50%);
     -webkit-clip-path: circle(50% at 50% 50%);
-    clip-path: circle(50% at 50% 50%); }
+    clip-path: circle(50% at 50% 50%);
+    transform: translateX(-3rem); }
 
 .row {
   max-width: 114rem;
