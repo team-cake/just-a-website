@@ -57,7 +57,7 @@
 		font-size: $default-font-size;
 		cursor: pointer;
 		position: relative;
-		padding-left: 5rem;
+		padding-left: 4.5rem;
 	}
 
 	&__radio-button {
@@ -68,9 +68,20 @@
 		display: inline-block;
 		position: absolute;
 		left: 0;
-		top: -0.1rem;
+		top: -0.4rem;
 
 		&::after {
+			content: '';
+			display: block;
+			height: 1.3rem;
+			width: 1.3rem;
+			border-radius: 50%;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			background-color: $color-primary;
+			opacity: 0;
 		}
 	}
 }
