@@ -28,7 +28,8 @@ Well, it's super simple. Just needed a mock up website to practice my css skills
 ![Features](https://github.com/team-cake/just-a-website/blob/development/gif/Features.gif)  
 ![Tours](https://github.com/team-cake/just-a-website/blob/development/gif/Tours.gif)  
 ![Stories](https://github.com/team-cake/just-a-website/blob/development/gif/Stories.gif)  
-![Form](https://github.com/team-cake/just-a-website/blob/development/gif/Form.gif)
+![Form](https://github.com/team-cake/just-a-website/blob/development/gif/Form.gif)  
+![Footer](https://github.com/team-cake/just-a-website/blob/development/gif/Footer.gif)
 
 ---
 
