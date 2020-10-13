@@ -13,6 +13,7 @@
 		border-radius: 50%;
 		z-index: 2000;
 		box-shadow: 0 1rem 3rem rgba($color-black, 0.1);
+		text-align: center;
 	}
 
 	&__background {
@@ -104,6 +105,9 @@
 
 	// Icon
 	&__icon {
+		position: relative;
+		margin-top: 3.4rem;
+
 		&,
 		&::before,
 		&::after {
@@ -116,6 +120,15 @@
 		&::before,
 		&::after {
 			content: '';
+			position: absolute;
+			left: 0;
+		}
+
+		&::before {
+			top: -0.8rem;
+		}
+		&::after {
+			top: 0.8rem;
 		}
 	}
 }
