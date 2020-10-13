@@ -26,6 +26,8 @@
 			$color-primary-dark
 		);
 		z-index: 1000;
+
+		transform: scale(70);
 	}
 
 	&__nav {
@@ -47,8 +49,14 @@
 	}
 
 	&__item {
+		margin: 1rem;
 	}
 
 	&__link {
+		font-size: 3rem;
+		font-weight: 300;
+		color: $color-white;
+		text-decoration: none;
+		text-transform: uppercase;
 	}
 }
