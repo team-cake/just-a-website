@@ -600,8 +600,8 @@ body {
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
-  background-image: linear-gradient(120deg, orangered 0%, orangered 50%, #fff 50%);
-  background-size: 200%;
+  background-image: linear-gradient(120deg, transparent 0%, transparent 50%, #fff 50%);
+  background-size: 220%;
   transition: all 0.4s; }
 
 .navigation__link:hover, .navigation__link:active {
