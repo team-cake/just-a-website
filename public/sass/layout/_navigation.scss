@@ -146,10 +146,10 @@
 	}
 	&__checkbox:checked + &__button &__icon::before {
 		top: 0;
-		transform: rotate(45deg);
+		transform: rotate(135deg);
 	}
 	&__checkbox:checked + &__button &__icon::after {
 		top: 0;
-		transform: rotate(-45deg);
+		transform: rotate(-135deg);
 	}
 }
