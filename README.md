@@ -24,6 +24,7 @@ Well, it's super simple. Just needed a mock up website to practice my css skills
 ## Images
 
 ![Header](https://github.com/team-cake/just-a-website/blob/development/gif/Header.gif)  
+![Navigation](https://github.com/team-cake/just-a-website/blob/development/gif/Navigation.gif)
 ![About](https://github.com/team-cake/just-a-website/blob/development/gif/About.gif)  
 ![Features](https://github.com/team-cake/just-a-website/blob/development/gif/Features.gif)  
 ![Tours](https://github.com/team-cake/just-a-website/blob/development/gif/Tours.gif)  
