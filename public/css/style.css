@@ -550,6 +550,16 @@ body {
     transform: translate(-50%, -50%);
     text-align: center; }
 
+.navigation__button {
+  background-color: #fff;
+  height: 7rem;
+  width: 7rem;
+  position: fixed;
+  top: 6rem;
+  right: 6rem;
+  border-radius: 50%;
+  z-index: 2000; }
+
 .navigation__background {
   height: 6rem;
   width: 6rem;
@@ -557,7 +567,8 @@ body {
   position: fixed;
   top: 6.5rem;
   right: 6.5rem;
-  background-image: radial-gradient(#7ed56f, #28b485); }
+  background-image: radial-gradient(#7ed56f, #28b485);
+  z-index: 1000; }
 
 .section-about {
   background-color: #f7f7f7;
