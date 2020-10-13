@@ -19,35 +19,38 @@ A simple website to show off some css skills!
 
 Well, it's super simple. Just needed a mock up website to practice my css skills :)
 
-
 ---
 
-## Images  
+## Images
 
 ![Header](https://github.com/team-cake/just-a-website/blob/development/gif/Header.gif)  
+![Navigation](https://github.com/team-cake/just-a-website/blob/development/gif/Navigation.gif)
 ![About](https://github.com/team-cake/just-a-website/blob/development/gif/About.gif)  
 ![Features](https://github.com/team-cake/just-a-website/blob/development/gif/Features.gif)  
+![Tours](https://github.com/team-cake/just-a-website/blob/development/gif/Tours.gif)  
+![Stories](https://github.com/team-cake/just-a-website/blob/development/gif/Stories.gif)  
+![Form](https://github.com/team-cake/just-a-website/blob/development/gif/Form.gif)  
+![Footer](https://github.com/team-cake/just-a-website/blob/development/gif/Footer.gif)
 
 ---
 
 ## Technologies
 
 Project mode is created with:
-Showing soon!  
-
+Showing soon!
 
 ---
 
 ## Project Status
 
 Project is: _in progress_  
-At the moment the website is not finished yet!  
+At the moment the website is not finished yet!
 
 ---
 
 ## Setup
 
-To run this project, clone this project using:  
+To run this project, clone this project using:
 
 ```
 git clone git@github.com:team-cake/just-a-website.git
@@ -57,9 +60,9 @@ install it locally using npm:
 
 ```
 $ cd ../just-a-website
-$ npm install  
-$ live server  
-click on public  
+$ npm install
+$ live server
+click on public
 ```
 
 ---
