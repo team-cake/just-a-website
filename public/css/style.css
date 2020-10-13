@@ -587,7 +587,7 @@ body {
 .navigation__list {
   position: absolute;
   top: 50%;
-  left: 5%;
+  left: 50%;
   transform: translate(-50%, -50%);
   list-style: none;
   text-align: center; }
@@ -614,6 +614,13 @@ body {
   background-position: 90%;
   color: #55c57a;
   transform: translateX(1rem); }
+
+.navigation__checkbox:checked ~ .navigation__background {
+  transform: scale(80); }
+
+.navigation__checkbox:checked ~ .navigation__nav {
+  opacity: 1;
+  width: 100%; }
 
 .section-about {
   background-color: #f7f7f7;

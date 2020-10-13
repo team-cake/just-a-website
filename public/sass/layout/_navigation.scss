@@ -46,7 +46,7 @@
 	&__list {
 		position: absolute;
 		top: 50%;
-		left: 5%;
+		left: 50%;
 		transform: translate(-50%, -50%);
 		list-style: none;
 		text-align: center;
@@ -87,5 +87,14 @@
 			color: $color-primary;
 			transform: translateX(1rem);
 		}
+	}
+
+	&__checkbox:checked ~ &__background {
+		transform: scale(80);
+	}
+
+	&__checkbox:checked ~ &__nav {
+		opacity: 1;
+		width: 100%;
 	}
 }
