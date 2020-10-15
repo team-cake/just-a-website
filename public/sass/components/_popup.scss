@@ -27,6 +27,7 @@
 		width: 66.6666667;
 		display: table-cell;
 		vertical-align: middle;
+		padding: 3rem 5rem;
 	}
 
 	&__img {
@@ -35,5 +36,7 @@
 	}
 
 	&__text {
+		font-size: 1.4rem;
+		margin-bottom: 4rem;
 	}
 }
