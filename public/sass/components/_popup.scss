@@ -10,11 +10,6 @@
 	visibility: hidden;
 	transition: all 0.3s;
 
-	&:target {
-		opacity: 1;
-		visibility: visible;
-	}
-
 	&__content {
 		@include absCenter;
 
@@ -24,6 +19,9 @@
 		border-radius: 17px;
 		display: table;
 		overflow: hidden;
+		opacity: 0;
+		transform: translate(-50%, -50%) scale(0);
+		transition: all 0.8s 0.2s;
 	}
 
 	&__left {
@@ -59,5 +57,35 @@
 		-ms-hyphens: auto;
 		-webkit-hyphens: auto;
 		hyphens: auto;
+	}
+
+	// Open states
+	&:target {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	&:target &__content {
+		opacity: 1;
+		transform: translate(-50%, -50%) scale(1);
+	}
+
+	&__close {
+		&:link,
+		&:visited {
+			color: $color-grey-dark;
+			position: absolute;
+			top: 2.5rem;
+			right: 2.5rem;
+			font-size: 3rem;
+			text-decoration: none;
+			display: inline-block;
+			transition: all 0.2s;
+			line-height: 1;
+		}
+
+		&:hover {
+			color: $color-primary;
+		}
 	}
 }
