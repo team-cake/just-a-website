@@ -36,7 +36,7 @@ Well, it's super simple. Just needed a mock up website to practice my css skills
 
 ## Technologies
 
-Project mode is created with:
+Project mode is created with:  
 ![](https://img.shields.io/badge/Web-CSS3-informational?style=plastic&logo=css3) ![](https://img.shields.io/badge/Web-SCSS-informational?style=plastic&logo=SCSS) ![](https://img.shields.io/badge/Web-HTML5-informational?style=plastic&logo=html5) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript) ![](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=php)
 
 ---
@@ -44,7 +44,8 @@ Project mode is created with:
 ## Project Status
 
 Project is: _in progress_  
-At the moment the website is not finished yet! Will be working on the responsive design next.
+At the moment the website is not finished yet!  
+Will be working on the responsive design next.
 
 ---
 
