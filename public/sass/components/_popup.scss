@@ -13,8 +13,9 @@
 		width: 75%;
 		background-color: $color-white;
 		box-shadow: 0 2rem 4 rgba($color-black, 0.2);
-		border-radius: 3px;
+		border-radius: 17px;
 		display: table;
+		overflow: hidden;
 	}
 
 	&__left {

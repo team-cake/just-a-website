@@ -434,8 +434,9 @@ body {
     width: 75%;
     background-color: #fff;
     box-shadow: 0 2rem 4 rgba(0, 0, 0, 0.2);
-    border-radius: 3px;
-    display: table; }
+    border-radius: 17px;
+    display: table;
+    overflow: hidden; }
   .popup__left {
     width: 33.3333333%;
     display: table-cell; }
