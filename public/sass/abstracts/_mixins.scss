@@ -20,15 +20,7 @@
 900 - 1200	:		Tablet Landscape
 [1200 - 1800] is where our normal styles apply
 1800 +		:		Big desktop
-*/
 
-@mixin respond-phone {
-	@media (max-width: 600px) {
-		@content;
-	}
-}
-
-/*
 $breakpoint argument choices:
 - phone
 - tab-port
