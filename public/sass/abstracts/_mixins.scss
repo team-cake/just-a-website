@@ -12,3 +12,13 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
+
+// Media query manager
+/*
+0 - 600		:		Phone
+600 - 900	:		Tablet portrait
+900 - 1200	:		Tablet Landscape
+[1200 - 1800] is where our normal styles apply
+1800 +		:		Big desktop
+
+*/
