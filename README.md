@@ -1,6 +1,7 @@
 # Just a Website
 
-A simple website to show off some css skills!
+A simple website to show off some css skills!  
+Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-website/)
 
 ---
 
@@ -22,6 +23,8 @@ Well, it's super simple. Just needed a mock up website to practice my css skills
 ---
 
 ## Images
+
+Hate scrolling images? [Click here!](https://team-cake.github.io/just-a-website/)
 
 ![Header](https://github.com/team-cake/just-a-website/blob/development/gif/Header.gif)  
 ![Navigation](https://github.com/team-cake/just-a-website/blob/development/gif/Navigation.gif)
