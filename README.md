@@ -1,6 +1,6 @@
 # Just a Website
 
-A simple website to show off some css skills!  
+A simple static website to show off some css skills!  
 Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-website/)
 
 ---
