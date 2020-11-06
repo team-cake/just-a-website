@@ -18,7 +18,7 @@ Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-
 
 ## Statement of Purpose
 
-Well, it's super simple. Just needed a mock up website to practice my css skills :)
+Well, it's super simple. Just needed a mock up website to practice my css skills. :)
 
 ---
 
