@@ -65,7 +65,7 @@ install it locally using npm:
 ```
 $ cd ../just-a-website
 $ npm install
-$ live server
+$ live-server
 click on public
 ```
 
