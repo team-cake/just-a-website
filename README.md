@@ -1,6 +1,6 @@
 # Just a Website
 
-A simple static website to show off some css skills!  
+A website to learn some new css skills!  
 Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-website/)
 
 ---
@@ -19,7 +19,7 @@ Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-
 
 ## Statement of Purpose
 
-Well, it's super simple. Just needed a mock up website to practice my css skills. :)
+This project showcases the use of **Sass**, **responsive design**, **browser support**, **CSS architecture**, and **CSS animations**. Organized in a **7-1 Sass architecture** and makes use of **BEM CSS methodology** for its naming system. This desktop-first responsive website is designed to fit various screen widths and resolutions.
 
 ---
 
