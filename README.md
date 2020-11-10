@@ -12,7 +12,8 @@ Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-
 - [Technologies](#technologies)
 - [Project Status](#project-status)
 - [Setup](#setup)
-- [Contact](#contact)
+- [Contact](#contact)  
+- [Credits](#credits)
 
 ---
 
@@ -73,4 +74,10 @@ click on public
 
 ## Contact
 
-Created by [Alex Cheuk](https://www.linkedin.com/in/alex-cheuk/) - feel free to contact me!
+[Alex Cheuk](https://www.linkedin.com/in/alex-cheuk/) - feel free to contact me!
+
+---
+
+## Credits
+
+Credits to Jonas Schmedtmann for designing this website on his awesome Udemy [course](https://www.udemy.com/course/advanced-css-and-sass/)!
