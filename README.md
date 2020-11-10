@@ -1,4 +1,4 @@
-# Just a Website
+# Natours
 
 A website to learn some new css skills!  
 Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-website/)
