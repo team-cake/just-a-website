@@ -1,6 +1,7 @@
-# Just a Website
+# Natours
 
-A simple website to show off some css skills!
+A website to learn some new css skills!  
+Would you like to have a look? [Click here!](https://team-cake.github.io/just-a-website/)
 
 ---
 
@@ -11,17 +12,20 @@ A simple website to show off some css skills!
 - [Technologies](#technologies)
 - [Project Status](#project-status)
 - [Setup](#setup)
-- [Contact](#contact)
+- [Contact](#contact)  
+- [Credits](#credits)
 
 ---
 
 ## Statement of Purpose
 
-Well, it's super simple. Just needed a mock up website to practice my css skills :)
+This project showcases the use of **Sass**, **responsive design**, **browser support**, **CSS architecture**, and **CSS animations**. Organized in a **7-1 Sass architecture** and makes use of **BEM CSS methodology** for its naming system. This desktop-first responsive website is designed to fit various screen widths and resolutions.
 
 ---
 
 ## Images
+
+Hate scrolling images? [Click here!](https://team-cake.github.io/just-a-website/)
 
 ![Header](https://github.com/team-cake/just-a-website/blob/development/gif/Header.gif)  
 ![Navigation](https://github.com/team-cake/just-a-website/blob/development/gif/Navigation.gif)
@@ -69,4 +73,10 @@ $ live-server
 
 ## Contact
 
-Created by [Alex Cheuk](https://www.linkedin.com/in/alex-cheuk/) - feel free to contact me!
+[Alex Cheuk](https://www.linkedin.com/in/alex-cheuk/) - feel free to contact me!
+
+---
+
+## Credits
+
+Credits to Jonas Schmedtmann for designing this website on his awesome Udemy [course](https://www.udemy.com/course/advanced-css-and-sass/)!
